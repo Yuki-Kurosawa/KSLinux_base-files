@@ -1,0 +1,14 @@
+Package: base-files-dbgsym
+Package-Type: ddeb
+Source: base-files
+Version: 99kslinux24.04
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 20
+Depends: base-files (= 99kslinux24.04)
+Section: debug
+Priority: optional
+Description: debug symbols for base-files
+Build-Ids: 5e1288e378ea96b429c4608f5d3d822dd286e727
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

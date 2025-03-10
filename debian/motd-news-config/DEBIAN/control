@@ -1,0 +1,16 @@
+Package: motd-news-config
+Source: base-files
+Version: 99kslinux24.04
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 49
+Breaks: base-files (<< 11ubuntu11)
+Replaces: base-files (<< 11ubuntu11)
+Section: admin
+Priority: optional
+Description: Configuration for motd-news shipped in base-files
+ This package contains the configuration read by the motd-news script
+ shipped in the base-files package.
+ .
+ Install this package if you want motd-news to be enabled.
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

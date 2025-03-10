@@ -1,0 +1,13 @@
+PRETTY_NAME="Kurosawa Linux 24.04.2 LTS"
+NAME="KSLinux"
+VERSION_ID="24.04"
+VERSION="24.04.2 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=kslinux
+ID_LIKE=debian ubuntu
+HOME_URL="https://github.com/Yuki-Kurosawa/"
+SUPPORT_URL="https://github.com/Yuki-Kurosawa/"
+BUG_REPORT_URL="https://github.com/Yuki-Kurosawa/"
+PRIVACY_POLICY_URL="https://github.com/Yuki-Kurosawa/"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo

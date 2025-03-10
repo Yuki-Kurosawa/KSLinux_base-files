@@ -1,0 +1,4 @@
+base-files-dbgsym_99kslinux24.04_amd64.ddeb debug optional automatic=yes
+base-files_99kslinux24.04_amd64.buildinfo admin required
+base-files_99kslinux24.04_amd64.deb admin required
+motd-news-config_99kslinux24.04_all.deb admin optional
