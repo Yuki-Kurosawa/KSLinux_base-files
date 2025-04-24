@@ -3,7 +3,7 @@ base-files (99kslinux24.04) noble; urgency=medium
   * /etc/issue{,.net}, /etc/{lsb,os}-release: bump version to 24.04.2.
     (LP: #2097469)
 
- -- Yuki Kurosawa <yuki@ksyuki.com>  Mon, 10 Mar 2025 15:02:00 +0800
+ -- Yuki Kurosawa HotKey <yuki@ksyuki.com>  Mon, 10 Mar 2025 15:02:00 +0800
 
 base-files (13ubuntu10.2) noble; urgency=medium
 
